@@ -1,4 +1,4 @@
-# Deep Chef Demo
+# DeepChef Demo
 
 An iOS application using a pretrain keras neural network converted to CoreML to support real time image classification. 
 
